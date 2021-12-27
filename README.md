@@ -1,4 +1,4 @@
-# UoA_2021
+# UoA_2021_AI
 UoA coursework folders 
 
 Assignment 2: winequality.py 
